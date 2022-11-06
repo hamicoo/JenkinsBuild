@@ -1,5 +1,5 @@
 echo "this is a script from Github"
-OPRATOR = $OP
+OPRATOR = '+'
  if [ "$OPRATOR"  == "+" ]; then
   NUMBER=$(($NUMBERONE + $NUMBERTWO))  
   echo "$NUMBER"
