@@ -17,7 +17,7 @@ elif [ "$OP"  = "*" ]; then
 elif [ "$OP"  = "/" ]; then
   NUMBER=$(($NUMBERONE / $NUMBERTWO))  
   echo "$NUMBER"
-  echo "this task completed"  
+  echo "this task completed 2"  
   
 fi
 
