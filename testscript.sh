@@ -20,3 +20,5 @@ elif [ "$OP"  = "/" ]; then
   echo "this task completed"  
   
 fi
+
+echo "$NUMBER" >> result.txt
