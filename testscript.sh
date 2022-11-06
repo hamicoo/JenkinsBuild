@@ -1,4 +1,4 @@
 echo "this is a script from Github"
-NUMBER = $(($NUMBERONE + $NUMBER2))
+NUMBER = $(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 echo "this task completed"
