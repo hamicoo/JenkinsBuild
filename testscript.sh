@@ -21,4 +21,4 @@ elif [ "$OP"  = "/" ]; then
   
 fi
 
-echo "$NUMBER" >> result.txt
+
