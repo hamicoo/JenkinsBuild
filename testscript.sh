@@ -1,6 +1,5 @@
 echo "this is a script from Github"
-OPERATOR = $OP
-if [ $OPERATOR == "+" ]; then
+ if [ $OP == "+" ]; then
   NUMBER=$(($NUMBERONE + $NUMBERTWO))  
   echo "$NUMBER"
   echo "this task completed"
